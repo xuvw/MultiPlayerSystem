@@ -1,0 +1,6 @@
+﻿  main_server.cpp
+c:\users\rosevinchin\documents\github\midterm\midtermproject\server\main_server.cpp(107): warning C4018: '>': signed/unsigned mismatch
+c:\users\rosevinchin\documents\github\midterm\midtermproject\server\main_server.cpp(196): warning C4018: '>': signed/unsigned mismatch
+c:\users\rosevinchin\documents\github\midterm\midtermproject\server\main_server.cpp(293): warning C4477: 'printf' : format string '%I64u' requires an argument of type 'unsigned __int64', but variadic argument 1 has type 'RakNet::RakNetGUID'
+c:\users\rosevinchin\documents\github\midterm\midtermproject\server\main_server.cpp(400): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Server.vcxproj -> C:\Users\rosevinchin\Documents\GitHub\Midterm\MidtermProject\Debug\Server.exe
